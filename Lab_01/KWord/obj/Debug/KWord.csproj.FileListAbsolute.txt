@@ -1,0 +1,17 @@
+D:\Навчання_3_курс\Людинно-машинний інтерфейс\Lab_01\KWord\bin\Debug\KWord.exe.config
+D:\Навчання_3_курс\Людинно-машинний інтерфейс\Lab_01\KWord\bin\Debug\KWord.exe
+D:\Навчання_3_курс\Людинно-машинний інтерфейс\Lab_01\KWord\bin\Debug\KWord.pdb
+D:\Навчання_3_курс\Людинно-машинний інтерфейс\Lab_01\KWord\obj\Debug\KWord.csproj.AssemblyReference.cache
+D:\Навчання_3_курс\Людинно-машинний інтерфейс\Lab_01\KWord\obj\Debug\MainWindow.g.cs
+D:\Навчання_3_курс\Людинно-машинний інтерфейс\Lab_01\KWord\obj\Debug\App.g.cs
+D:\Навчання_3_курс\Людинно-машинний інтерфейс\Lab_01\KWord\obj\Debug\KWord_MarkupCompile.cache
+D:\Навчання_3_курс\Людинно-машинний інтерфейс\Lab_01\KWord\obj\Debug\KWord_MarkupCompile.lref
+D:\Навчання_3_курс\Людинно-машинний інтерфейс\Lab_01\KWord\obj\Debug\MainWindow.baml
+D:\Навчання_3_курс\Людинно-машинний інтерфейс\Lab_01\KWord\obj\Debug\KWord.g.resources
+D:\Навчання_3_курс\Людинно-машинний інтерфейс\Lab_01\KWord\obj\Debug\KWord.Properties.Resources.resources
+D:\Навчання_3_курс\Людинно-машинний інтерфейс\Lab_01\KWord\obj\Debug\KWord.csproj.GenerateResource.cache
+D:\Навчання_3_курс\Людинно-машинний інтерфейс\Lab_01\KWord\obj\Debug\KWord.csproj.CoreCompileInputs.cache
+D:\Навчання_3_курс\Людинно-машинний інтерфейс\Lab_01\KWord\obj\Debug\KWord.exe
+D:\Навчання_3_курс\Людинно-машинний інтерфейс\Lab_01\KWord\obj\Debug\KWord.pdb
+D:\Навчання_3_курс\Людинно-машинний інтерфейс\Lab_01\KWord\obj\Debug\HelpWindow.g.cs
+D:\Навчання_3_курс\Людинно-машинний інтерфейс\Lab_01\KWord\obj\Debug\HelpWindow.baml
